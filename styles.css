@@ -62,13 +62,16 @@ html {
     flex-wrap: wrap;
     justify-content: center;
     margin: 2vh;
-    padding: 2vh;
+}
+
+#mission>* {
+    margin: 1vw 1vh;
 }
 
 .missionCard {
     height: 100%;
     width: 60%;
-    margin: 1vw;
+    margin: 1.5vw;
     display: inline-flex;
     align-items: center;
     justify-content: center;
